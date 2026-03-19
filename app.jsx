@@ -1,4 +1,5 @@
 import Tervehdys from "./Tervehdys";
+import OpiskelijaTiedot from "./OpiskelijaTiedot";
 
 function App() {
   return (
